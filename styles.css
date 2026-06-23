@@ -277,9 +277,8 @@ a { color: inherit; text-decoration: none; }
 }
 .team-photo img {
   border-radius: 6px;
-  object-fit: cover;
   width: 100%;
-  aspect-ratio: 4/5;
+  height: auto;
 }
 .team-bio h3 {
   font-size: 1.25rem;
